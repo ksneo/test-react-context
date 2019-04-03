@@ -1,0 +1,5 @@
+**/ddl.js
+**/cml.js
+**/*.spec.js
+src/gateway/widgets/**/*
+src/client/editor/components/EditComponentDialog.js
